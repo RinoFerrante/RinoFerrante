@@ -1,16 +1,18 @@
-## Hi there 👋
+# Rino Ferrante
 
-<!--
-**RinoFerrante/RinoFerrante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital humanities researcher working on scholarly digital infrastructures, manuscript studies, textual scholarship, and reproducible research workflows.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- FeDHLab and the NDP digital research environment
+- CADMUS-based scholarly data workflows
+- IIIF, TEI, ALTO, HTR, and manuscript interoperability
+- Knowledge graphs and controlled scholarly data
+- Responsible integration of AI agents and research tools
+
+## Selected workspaces
+
+- [FeDHLab](https://github.com/fedhlab) - institutional projects and NDP infrastructure
+- `dh-labbook` - private experimental workspace for technical research
+
+Public repositories will be added here as projects become ready for release.
